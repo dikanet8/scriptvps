@@ -231,7 +231,7 @@ do
         "Buat User")
        read -p "Enter username: " uname
        read -p "Enter password: " pass
-       read -p "Kadaluarsa (Berapa Hari): " masaaktif
+       read -p "Masa Aktif: " masaaktif
        clear
        create_user
 	    break
